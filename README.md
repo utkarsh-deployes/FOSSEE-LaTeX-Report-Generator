@@ -1,8 +1,6 @@
-# FOSSEE LaTeX Report Generator
-
 ![FOSSEE Banner](assets/FOSSEE_BANNER.png)
 
-## Overview
+# FOSSEE LaTeX Report Generator
 The **FOSSEE LaTeX Report Generator** is a streamlined solution for automating the creation of well-structured, professionally formatted reports using LaTeX. Developed for the **FOSSEE Summer Fellowship** as a screening task, this tool ensures consistency in document formatting, including tables, sections, and typography enhancements.
 
 ## Features
