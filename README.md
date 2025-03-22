@@ -17,6 +17,8 @@ The **FOSSEE LaTeX Report Generator** is a streamlined solution for automating t
 4. **Compile LaTeX Document**: The generated `.tex` file is compiled into a `.pdf` using `pdflatex`.
 5. **Review and Use the Output**: The final PDF is reviewed and used as needed.
 
+![WORKFLOW](assets/workflow.png)
+
 ## Installation
 
 ### Prerequisites
